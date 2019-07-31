@@ -1,4 +1,8 @@
-# au-pets
+# About
+
+It's a simple web project, shows how to consume a JSON and render it in a Vue project.
+
+# Usage
 
 ## Project setup
 ```
