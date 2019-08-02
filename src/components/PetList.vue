@@ -8,7 +8,6 @@
 </template>
 
 <script>
-import { constants } from 'crypto';
 export default {
     
     name: 'PetList',
@@ -19,10 +18,6 @@ export default {
             required: true
         },
         value: Array
-    },
-
-    mounted () {
-        console.log(this.value)
     }
 }
 </script>
